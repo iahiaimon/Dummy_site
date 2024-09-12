@@ -86,7 +86,7 @@ html {
 }
 
 .background {
-    background: rgba(0, 0, 0, 0.7) url(bg.jpg);
+    background: rgba(0, 0, 0, 0.7) url(Image/bg.jpg);
     background-size: cover;
     background-blend-mode: darken;
 }
@@ -201,7 +201,7 @@ div.box-left {
 
 /* CONTACT */
 section.contact {
-    background: url(contact.jpg) no-repeat center center;
+    background: url(Image/contact.jpg) no-repeat center center;
     background-size: cover;
     background-blend-mode: darken;
     opacity: .9;
